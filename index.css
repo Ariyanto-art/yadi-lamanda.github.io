@@ -1,8 +1,8 @@
 body {
-	background:url(img/bg-awal.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
+  background:url(img/bg-awal.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .tgl {
   font-family: courier new , arial , cursive;
