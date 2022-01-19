@@ -6,14 +6,6 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
-/*Pembukaan*/
-.open {
-  height: 650px;
-  background:url(img/slide-3.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
 .open a {
   margin-left: 45%;
 }
@@ -211,11 +203,6 @@ table tbody tr td {
 }
 
 @media (max-width: 575.98px){
-  .open {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
   .logo-bg {
     background-size: cover;
     background-repeat: no-repeat;
