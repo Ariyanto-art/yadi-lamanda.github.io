@@ -251,7 +251,7 @@ table tbody tr td {
   }
   .map iframe {
     width: 20rem;
-    margin: 2rem;
+    margin: .75rem;
   }
   .prokes {
     height: 20rem;
