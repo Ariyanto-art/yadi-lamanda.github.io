@@ -210,7 +210,7 @@ table tbody tr td {
   }
   .nama {
     display:block;
-    font-size: 100px;
+    font-size: 7rem;
     position: relative;
     left: 0;
   }
@@ -218,19 +218,19 @@ table tbody tr td {
     font-size: 1rem;
   }
   .marketing .col-lg-4 {
-    margin: 20px;
+    margin: 2rem;
   }
   .jadwal p {
     font-size: 3rem;
   }
   table {
-    margin-left: 5px;
+    margin-left: 1rem;
   }
   .col-lg-6 img {
-    left: 150px;
+    left: 10rem;
   }
   table tbody tr td {
-    font-size: 12px;
+    font-size: .75rem;
   }
   .our {
     font-size: 4rem;
@@ -241,19 +241,24 @@ table tbody tr td {
   .prokes p{
     font-size: 4rem;
   }
+  .virus p {
+    font-size: .75rem;
+    font-family: arial ;
+    color: black;
+  }
   .map a {
     margin-left: 35%;
   }
   .map iframe {
-    width: 360px;
-    margin: 5px;
+    width: 20rem;
+    margin: 2rem;
   }
   .prokes {
-    height: 300px;
+    height: 20rem;
   }
   .virus .col-3 img {
-    width: 80px;
-    height: 80px;
+    width: 4rem;
+    height: 4rem;
   }
   .open a {
     margin-left: 35%;
