@@ -2,6 +2,7 @@ body {
 	background:url(img/slide-3.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .tgl {
   font-family: courier new , arial , cursive;
